@@ -1,0 +1,12 @@
+flask
+flask-cors
+gunicorn
+protobuf==3.20.1
+tensorflow==2.0.0
+tensorflow_hub
+tensorflow_text==2.0.0
+tqdm
+pandas
+numpy
+sklearn
+wordcloud
